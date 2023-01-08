@@ -1,0 +1,26 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+/setup
+
+package-lock.json
+package.json
+
+# testing
+/coverage
+
+# production
+/build
+
+/db.js
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
